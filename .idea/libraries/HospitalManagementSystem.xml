@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="HospitalManagementSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HospitalManagementSystem/dist/run380853575/HospitalManagementSystem.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../javafx-sdk-21.0.2/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../javafx-sdk-21.0.2/lib" recursive="false" />
+  </library>
+</component>
